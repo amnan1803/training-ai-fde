@@ -6,9 +6,9 @@ My submission repo for the \*\*AI Forward Deployed Engineer (FDE) Training\*\* �
 
 
 
-\- 👤 \*\*Name:\*\* \_your name here\_
+\- 👤 \*\*Name:\*\* \_amnansani\_
 
-\- 🎓 \*\*Cohort:\*\* \_your cohort / start date here\_
+\- 🎓 \*\*Cohort:\*\* \_your cohort / 11/6/2026\_
 
 \- 🌐 \*\*Course site:\*\* https://akmalakhpah.github.io/training-ai-fde/
 

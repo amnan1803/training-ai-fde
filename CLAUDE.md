@@ -1,0 +1,3 @@
+# CLAUDE.md
+
+This is amnansani's submission repo for the **AI Forward Deployed Engineer (FDE) Training** — a 12-week program covering production engineering, AI application development, and FDE craft. Work is organised into 13 weekly folders (`week-00/` through `week-12/`), each mapping to one lesson phase: Phase 0 (setup), Phase 1 (production foundations, weeks 1–3), Phase 2 (AI application engineering, weeks 4–7), Phase 3 (FDE craft, weeks 8–10), and Phase 4 (capstone deployment, weeks 11–12). The README at the repo root is the index linking every week to its lesson and deliverable folder. No secrets belong in git — API keys go in environment variables only.
